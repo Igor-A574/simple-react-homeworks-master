@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-react-homeworks-master/static/css/main.e6c13ad2.css",
+    "main.js": "/simple-react-homeworks-master/static/js/main.f5dd5ce1.js",
+    "index.html": "/simple-react-homeworks-master/index.html",
+    "main.e6c13ad2.css.map": "/simple-react-homeworks-master/static/css/main.e6c13ad2.css.map",
+    "main.f5dd5ce1.js.map": "/simple-react-homeworks-master/static/js/main.f5dd5ce1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f5dd5ce1.js"
+  ]
+}
