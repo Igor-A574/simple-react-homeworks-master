@@ -32,10 +32,10 @@ function Affairs(props: AffairsPropsType) {
 
             {mappedAffairs}
 
-            <button onClick={()=>setFilterHandler('all')}>all</button>
-            <button onClick={()=>setFilterHandler('high')}>high</button>
-            <button onClick={()=>setFilterHandler('middle')}>middle</button>
-            <button onClick={()=>setFilterHandler('low')}>low</button>
+            <button onClick={()=>setFilterHandler('all')} className={s.button}>all</button>
+            <button onClick={()=>setFilterHandler('high')} className={s.button}>high</button>
+            <button onClick={()=>setFilterHandler('middle')} className={s.button}>middle</button>
+            <button onClick={()=>setFilterHandler('low')} className={s.button}>low</button>
         </div>
     )
 }
