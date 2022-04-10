@@ -7,4 +7,5 @@
 
 .buttonConteiner {
     display: flex;
+    margin: 10px;
 }

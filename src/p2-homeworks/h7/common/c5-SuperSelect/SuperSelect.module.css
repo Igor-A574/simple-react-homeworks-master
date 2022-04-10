@@ -1,5 +1,6 @@
 .select {
     width: 100px;
+
     padding: 5px;
     padding-right: 30px;
     cursor: pointer;
@@ -17,6 +18,7 @@
 .option {
     color: #003300;
     background: #99ff99;
+
 }
 .option:checked {
     background: #003300;

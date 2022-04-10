@@ -42,7 +42,7 @@ function HW8() {
             <div className={s.buttonConteiner}>
                 <div className={s.button}><SuperButton onClick={sortUp}>sort up</SuperButton></div>
                 <div><SuperButton onClick={sortDown}>sort down</SuperButton></div>
-                <div><SuperButton onClick={check18}>scheck 18</SuperButton></div>
+                <div><SuperButton onClick={check18}>check 18</SuperButton></div>
             </div>
 
 
